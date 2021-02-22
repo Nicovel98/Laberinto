@@ -270,8 +270,6 @@ function update() {
         player.anims.play('down', true);
         scoreText.setScrollFactor(-0.001);
         llave.setScrollFactor(-0.001);
-    } else {
-        player.anims.stop();
     }
 
     light.x = player.x - 2;
