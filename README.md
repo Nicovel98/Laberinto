@@ -1,5 +1,6 @@
 # Laberinto
 
+[Juego Laberinto](https://nicovel98.github.io/Laberinto/index.html)
 
 ## Controls
 
